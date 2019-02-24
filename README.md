@@ -1,2 +1,2 @@
 # TypeScriptStudy
-TypeScript study!
+## 像学Java一样学好TS!
