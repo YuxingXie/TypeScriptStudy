@@ -10,9 +10,9 @@ https://www.w3cschool.cn/typescript
     npm install -g typescript
     
 
-> ## <a href='#cp1' id='ccp3'>第一章 TypeScript 基础类型</a>
+## 目录
+> ## <a href='#cp1' id='ccp1'>第一章 TypeScript 基础类型</a>
 >> ### <a href='#cp1-1' id='ccp1-1'>基础类型</a>
-
 
 
 
